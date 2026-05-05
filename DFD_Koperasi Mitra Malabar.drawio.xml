@@ -49,9 +49,7 @@
         <mxCell id="d9JllRVbbOVjh7W0uT5c-49" edge="1" parent="1" source="LdMxUjBfmvHJkup9Rzpo-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" target="d9JllRVbbOVjh7W0uT5c-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="390" y="687" />
-              <mxPoint x="390" y="815" />
-              <mxPoint x="280" y="815" />
+              <mxPoint x="280" y="687" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -131,7 +129,7 @@
           <mxGeometry height="40" width="120" x="300" y="1204" as="geometry" />
         </mxCell>
         <mxCell id="d9JllRVbbOVjh7W0uT5c-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Data untuk Verifikasi" vertex="1">
-          <mxGeometry height="30" width="140" x="245" y="785" as="geometry" />
+          <mxGeometry height="30" width="140" x="290" y="705" as="geometry" />
         </mxCell>
         <mxCell id="d9JllRVbbOVjh7W0uT5c-37" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" value="Data Lead" vertex="1">
           <mxGeometry height="60" width="120" x="415" y="795" as="geometry" />
