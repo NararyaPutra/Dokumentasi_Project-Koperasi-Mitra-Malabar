@@ -4,8 +4,23 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="cNbU6R3lthvhGz7reHAV-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="350" y="300" as="geometry" />
+        <mxCell id="UAH4mmzRO1UvkuYt4SRG-5" parent="1" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_Black_128x128.png" value="" vertex="1">
+          <mxGeometry height="72.38095238095238" width="68.37606837606837" x="369.05982905982904" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UAH4mmzRO1UvkuYt4SRG-6" parent="1" style="image;html=1;image=img/lib/clip_art/people/Suit_Woman_Blue_128x128.png" value="" vertex="1">
+          <mxGeometry height="72.38095238095238" width="68.37606837606837" x="445.982905982906" y="139.52380952380952" as="geometry" />
+        </mxCell>
+        <mxCell id="UAH4mmzRO1UvkuYt4SRG-8" parent="1" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_Green_Black_128x128.png" value="" vertex="1">
+          <mxGeometry height="72.38095238095238" width="68.37606837606837" x="300.6837606837607" y="139.52380952380952" as="geometry" />
+        </mxCell>
+        <mxCell id="UAH4mmzRO1UvkuYt4SRG-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Super Admin" vertex="1">
+          <mxGeometry height="27.142857142857142" width="76.92307692307692" x="369.05982905982904" y="103.33333333333334" as="geometry" />
+        </mxCell>
+        <mxCell id="UAH4mmzRO1UvkuYt4SRG-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Karyawan Leads" vertex="1">
+          <mxGeometry height="27.14" width="110" x="290" y="202.86" as="geometry" />
+        </mxCell>
+        <mxCell id="UAH4mmzRO1UvkuYt4SRG-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Karyawan Marketing" vertex="1">
+          <mxGeometry height="27.14" width="120" x="420" y="202.86" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
